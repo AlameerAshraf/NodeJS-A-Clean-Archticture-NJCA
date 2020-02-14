@@ -4,7 +4,9 @@
   "description": "Simple NodeJS Archeticture can be used in an entrprise applications ",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "nodemon --exec babel-node src/server.js --inspect",
+    "start": "nodemon --exec babel-node src/server.js"
   },
   "repository": {
     "type": "git",
