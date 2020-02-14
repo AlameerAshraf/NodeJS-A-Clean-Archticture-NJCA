@@ -1,0 +1,32 @@
+{
+    "seReference" : "OPP-1994-1611",
+    "ownerName" : "Alameer Ashraf",
+    "opportunityName" : "Project X",
+    "projectCategoryP0" : "Category A",
+    "projectCategoryS0" : "Category B",
+    "projectCategoryS1" : "C",
+    "leadingBusiness" : "Egypt EECE",
+    "account" : {
+        "id" : 34,
+        "name" : "Name of the account"
+    },
+    "endUserAccount" : {
+        "id" : 23,
+        "name" : "Mohamed Gamal"
+    },
+    "countryOfDestination" : "Egypt",
+    "salesStage" : "Development" ,
+    "marketSegment" : "SEGMENT",
+    "marketSubSegment" : "SUB-SEGMENT",
+    "solutionCenter" : {
+        "id" : 24,
+        "name" : "Egypt Solution Center"
+    },
+    "rfpReceivedOn" : "02-12-2020",
+    "plannedQuoteSubmitDecisionDate" : "05-01-2020",
+    "customerQuoteIssuedDate" : "08-02-2020",
+    "closeDate" : "02-02-2020",
+    "currencyCode" : "EGP",
+    "amount" : "1000000"
+
+}
