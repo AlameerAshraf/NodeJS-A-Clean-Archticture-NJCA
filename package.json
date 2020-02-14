@@ -1,0 +1,28 @@
+{
+  "name": "njca",
+  "version": "1.0.0",
+  "description": "Simple NodeJS Archeticture can be used in an entrprise applications ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlameerAshraf/NodeJS-A-Clean-Archticture-NJCA.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Clean"
+  ],
+  "author": "Alameer Ashraf Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlameerAshraf/NodeJS-A-Clean-Archticture-NJCA/issues"
+  },
+  "homepage": "https://github.com/AlameerAshraf/NodeJS-A-Clean-Archticture-NJCA#readme",
+  "dependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/node": "^7.8.4",
+    "@babel/preset-env": "^7.8.4"
+  }
+}
