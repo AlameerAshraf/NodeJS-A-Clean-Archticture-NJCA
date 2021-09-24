@@ -12,7 +12,7 @@ class post {
       body: { type: String }
     });
 
-    return mongoose.model("post", schema);
+    return mongoose.model("post", schema) || mongoose.model('post', schema);
   }
 
   constructModel() {
