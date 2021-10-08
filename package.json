@@ -1,7 +1,7 @@
 {
-  "name": "seqt-be",
+  "name": "NodeJS-A-Clean-Archticture-NJCA",
   "version": "1.0.0",
-  "description": "Schneider electric quotation tool.",
+  "description": "This is a simple NodeJS Architecture can be used in an enterprise applications. 🎉🤔",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
